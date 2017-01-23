@@ -177,7 +177,7 @@ They are not for a grade.
 #### Rough Overview
 
 Today: HTML/CSS w/ [Codepen](https://codepen.io)
-Tomorrow: Version Control with Git and Github
+Tomorrow: Intro to Terminal, Git, Github
 Wednesday: CSS Layout
 Thursday: CSS Layout & Review
 
@@ -194,12 +194,11 @@ Thursday: CSS Layout & Review
 
 ### HTML elements
 
-* Every web page should have at least `<html>`, `<head>`, and `<body>` tags.
+* Every web page has `<html>`, `<head>`, and `<body>` tags.
 * `<head>` is information about the document while `<body>` is the content.
 
-* `div`, `p`, `h1`, `ol`, `ul`, `li`
+* `div`, `p`, `h1`, `ol`, `ul`, `li`, `a`, `img`, `span`
   * Some more recent elements: `nav`, `main`, `header`, `footer`
-* `a`, `img`, `span`
 
 ---
 
